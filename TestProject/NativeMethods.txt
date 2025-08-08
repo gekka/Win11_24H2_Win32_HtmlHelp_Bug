@@ -1,0 +1,9 @@
+﻿HtmlHelpW
+
+HH_POPUP
+
+GetWindowRect
+PrintWindow
+FindWindow
+
+GetSystemDefaultLCID
